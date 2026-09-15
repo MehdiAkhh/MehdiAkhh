@@ -31,16 +31,8 @@ J'aime concevoir des architectures solides, des API performantes et des interfac
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiAkhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
-</p>
-
----
-
 ### 🌐 Me retrouver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mehdi--akhenkham.fr-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://mehdi-akhenkham.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-akhenkham-392561333/)
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehdi.akhenkham@gmail.com)
